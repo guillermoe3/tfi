@@ -4,5 +4,5 @@ Solution made with NodeJS, RabbitMQ (docker-compose in “rabbitmq” folder), s
 
 Endpoints: 
 
-/print -> to print a file. This endpoint add to queue “toPrint” the name of the file and the priority. 
+/print -> to print a file. This endpoint add to queue “toPrint” the name of the file and the priority. \
 /all -> to get all files printed.
